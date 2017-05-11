@@ -5,7 +5,7 @@
 
 ## Learning WinLocalhostDNS
 
-<img width="421"src="http://www.kpa21.info/images/sample1.png">
+<p><img width="421"src="http://www.kpa21.info/images/sample1.png"></p>
 
 ## License
 
